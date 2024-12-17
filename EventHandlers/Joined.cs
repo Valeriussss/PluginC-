@@ -11,7 +11,7 @@ namespace StartMessage.EventHandlers
     {
         public static void OnVerified(VerifiedEventArgs ev)
         {
-            ev.Player.SendConsoleMessage(Class1.Instance.Translation.StartConsoleMessage, "red");
+            ev.Player.SendConsoleMessage(Class1.Instance.Translation.StartConsoleMessage, "blue");
         }
     }
 }

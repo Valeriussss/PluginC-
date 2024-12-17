@@ -19,7 +19,7 @@ namespace StartMessage
         {
             Instance = null;
             player.Verified -= StartMessage.EventHandlers.Verified.OnVerified;
-            base.OnDisabled(); 
+            base.OnDisabled();
         }
     }
 }
