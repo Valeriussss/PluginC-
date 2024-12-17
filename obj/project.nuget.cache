@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sX/UX6KqfcFzVk0Rpw4w/kQbY8suEYdDPfVeNSUQaz8hyXT3on4C9XwsgsahSPhpOr8rbDV0V+ML+o9fJ9trYw==",
+  "success": true,
+  "projectFilePath": "D:\\ConsolePlugin\\StartMessage\\StartMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valeriusss\\.nuget\\packages\\exiled\\8.9.11\\exiled.8.9.11.nupkg.sha512"
+  ],
+  "logs": []
+}

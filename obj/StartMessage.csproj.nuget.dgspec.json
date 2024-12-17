@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ConsolePlugin\\StartMessage\\StartMessage.csproj": {}
+  },
+  "projects": {
+    "D:\\ConsolePlugin\\StartMessage\\StartMessage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ConsolePlugin\\StartMessage\\StartMessage.csproj",
+        "projectName": "StartMessage",
+        "projectPath": "D:\\ConsolePlugin\\StartMessage\\StartMessage.csproj",
+        "packagesPath": "C:\\Users\\Valeriusss\\.nuget\\packages\\",
+        "outputPath": "D:\\ConsolePlugin\\StartMessage\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Valeriusss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "EXILED": {
+              "target": "Package",
+              "version": "[8.9.11, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
